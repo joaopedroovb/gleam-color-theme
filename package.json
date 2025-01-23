@@ -3,7 +3,7 @@
   "publisher": "joaopedroovb",
   "displayName": "Gleam Color Theme",
   "description": "A color theme inspired by Gleam's colors.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/joaopedroovb/gleam-color-theme",
   "engines": {
     "vscode": "^1.96.0"
