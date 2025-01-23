@@ -1,0 +1,24 @@
+{
+  "name": "gleam-color-theme",
+  "publisher": "joaopedroovb",
+  "displayName": "Gleam Color Theme",
+  "description": "",
+  "version": "0.0.1",
+  "repository": "https://github.com/joaopedroovb/gleam-color-theme",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gleam Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gleam-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
+
