@@ -1,5 +1,7 @@
 {
+	"$schema": "vscode://schemas/color-theme",
 	"name": "Gleam Dark",
+	"type": "dark",
 	"colors": {
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
