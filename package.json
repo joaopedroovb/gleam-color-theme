@@ -3,6 +3,7 @@
   "publisher": "joaopedroovb",
   "displayName": "Gleam Color Theme",
   "description": "A color theme inspired by Gleam's colors.",
+  "icon": "assets/lucy.png",
   "version": "0.0.2",
   "repository": "https://github.com/joaopedroovb/gleam-color-theme",
   "engines": {
