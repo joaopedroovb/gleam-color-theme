@@ -4,7 +4,7 @@
   "displayName": "Gleam Color Theme",
   "description": "A color theme inspired by Gleam's colors.",
   "icon": "assets/lucy.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/joaopedroovb/gleam-color-theme",
   "engines": {
     "vscode": "^1.96.0"
