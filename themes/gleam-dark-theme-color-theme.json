@@ -37,6 +37,8 @@
 	  "activityBar.background": "#1e1e1e",
 	  "activityBar.foreground": "#E0DEF4",
 	  "activityBar.border": "#363636",
+	  "activityBarBadge.background": "#E0DEF4",
+	  "activityBarBadge.foreground": "#1e1e1e",
 	  "statusBar.background": "#1e1e1e",
 	  "statusBar.foreground": "#E0DEF4",
 	  "statusBar.border": "#363636",
